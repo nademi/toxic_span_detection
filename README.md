@@ -13,4 +13,4 @@ Link to SemEval-2021: Task 5 Toxic Span Detection is [https://competitions.codal
 5. https://github.com/huggingface/notebooks/blob/master/examples/token_classification-tf.ipynb - Copied function tokenize_and_align_labels() from this tutorial notebook from huggingface and followed the certain steps to fine tune model on custom dataset.
 6. https://github.com/ipavlopoulos/toxic_spans/blob/master/evaluation/metrics.py - F1 score function provided by competition is modified to accomodate our model output
 
-# This project was conducted in a group for project of CMPUT 501- Introduction to NLP. Other group member is Ravika Nagpal
+- This project was conducted in a group for project of CMPUT 501- Introduction to NLP. Other group member is Ravika Nagpal
